@@ -1,0 +1,8 @@
+name: qinance
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The act of bringing grief, loss, and desolation before GoD as worship, by voicing it toward the divine in direct address and expecting to be heard.
+dependsOn: [youspeak, me, hallance, hanme]
